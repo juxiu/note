@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "note"
-  text: "A VitePress Note"
-  tagline: test deploy
+  name: "juxiu"
+  text: "Welcome"
+  tagline: Some records of Juxiu
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: leetCode
+      link: /leetCode/
     - theme: alt
       text: API Examples
       link: /api-examples
