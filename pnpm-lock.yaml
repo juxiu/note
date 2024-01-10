@@ -5,9 +5,6 @@ settings:
   excludeLinksFromLockfile: false
 
 devDependencies:
-  pnpm:
-    specifier: ^8.14.0
-    version: 8.14.0
   vitepress:
     specifier: 1.0.0-rc.36
     version: 1.0.0-rc.36(@algolia/client-search@4.22.1)(search-insights@2.13.0)
@@ -824,12 +821,6 @@ packages:
 
   /picocolors@1.0.0:
     resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==}
-    dev: true
-
-  /pnpm@8.14.0:
-    resolution: {integrity: sha512-XUv5ezSfrxpRMYqhuoh+mdnDbiA9vLVZOKkf3dJFQkbLAHI9ZkL1TUY6D1KicB2t+N4AKjf8YTyc3JTtVnXdzg==}
-    engines: {node: '>=16.14'}
-    hasBin: true
     dev: true
 
   /postcss@8.4.33:
