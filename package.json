@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/juxiu/note#readme",
   "devDependencies": {
-    "pnpm": "^8.14.0",
     "vitepress": "1.0.0-rc.36"
   }
 }
