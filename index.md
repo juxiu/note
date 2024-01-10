@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "note"
   text: "A VitePress Note"
-  tagline: My great project tagline
+  tagline: test deploy
   actions:
     - theme: brand
       text: Markdown Examples
