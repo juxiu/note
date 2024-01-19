@@ -12,6 +12,7 @@
  - [算法通关手册](https://algo.itcharge.cn/Solutions/)
  - [博客分发工具](https://github.com/LetTTGACO/elog)
  - [搭建资源分发网站/导航站](https://github.com/CH563/gtps-url?tab=readme-ov-file)
+ - [astro](https://docs.astro.build/zh-cn/tutorial/1-setup/2/)
 
 - [趣导航](https://qssily.com/)
 - [趣乐兔](https://funletu.com/)
