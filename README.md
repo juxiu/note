@@ -23,3 +23,7 @@
 - [博客分发工具](https://github.com/LetTTGACO/elog)
 - [搭建资源分发网站/导航站](https://github.com/CH563/gtps-url?tab=readme-ov-file)
 - [astro](https://docs.astro.build/zh-cn/tutorial/1-setup/2/)
+- [seo关键词](https://aitdk.com/zh-CN/)
+
+
+- [github个人页组件](https://github.com/LHRUN/bubble/blob/main/README.zh.md)
