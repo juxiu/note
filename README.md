@@ -25,5 +25,6 @@
 - [astro](https://docs.astro.build/zh-cn/tutorial/1-setup/2/)
 - [seo关键词](https://aitdk.com/zh-CN/)
 
+- [获取网页元信息api](https://allorigins.win/)
 
 - [github个人页组件](https://github.com/LHRUN/bubble/blob/main/README.zh.md)
