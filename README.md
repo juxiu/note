@@ -13,13 +13,14 @@
  - [算法通关手册](https://algo.itcharge.cn/Solutions/)
 
 
+- [导航参考](https://share.hsmy.fun/category/read)
 - [趣导航](https://qssily.com/)
 - [趣乐兔](https://funletu.com/)
 - [程序员导航](https://www.code-nav.cn/)
 - [导航参考 喜欢书签](https://www.likebookmark.com/#category-205)
 - [导航参考 闪击工作台snakki](https://nav.sankki.com/#/index)
-- [闲着博客](https://blog.justmyfreedom.com/)
 - [闲着导航](https://nav.justmyfreedom.com/)
+- [闲着博客](https://blog.justmyfreedom.com/)
 - [博客分发工具](https://github.com/LetTTGACO/elog)
 - [搭建资源分发网站/导航站](https://github.com/CH563/gtps-url?tab=readme-ov-file)
 - [astro](https://docs.astro.build/zh-cn/tutorial/1-setup/2/)
@@ -28,3 +29,9 @@
 - [获取网页元信息api](https://allorigins.win/)
 
 - [github个人页组件](https://github.com/LHRUN/bubble/blob/main/README.zh.md)
+
+
+- [网站统计-不蒜子](https://busuanzi.ibruce.info/)
+- [网站统计-百度统计](https://tongji.baidu.com/main/setting/10000607770/home/site/index)
+- [网站统计-whos.amung.us](https://whos.amung.us/getstarted/)
+- [网站统计-友盟](https://www.umeng.com/umeng-analytics)
