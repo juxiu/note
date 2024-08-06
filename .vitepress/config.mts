@@ -9,10 +9,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'leetCode', link: '/leetCode/' }
+      { text: 'leetCode', link: '/docs/leetCode/' }
     ],
     sidebar: {
-      '/leetCode/':[]
+      '/docs/leetCode/':[
+              { text: 'Markdown Examples', link: '/docs/test/markdown-examples' },
+              { text: 'Runtime API Examples', link: '/docs/test/api-examples' }
+      ],
     },
     // sidebar: [
     //   {

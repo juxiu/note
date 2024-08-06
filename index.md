@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: leetCode
-      link: /leetCode/
+      link: /docs/leetCode/
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /docs/test/api-examples
 
 features:
   - title: Feature A
